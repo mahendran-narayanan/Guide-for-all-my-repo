@@ -1,5 +1,8 @@
 ## Guide to all my Repositories
 
+### [Simple Neural Networks](https://github.com/mahendran-narayanan/Daily-Nlog)
+This repository contains some of the segments of code implemented in neural networks
+
 ### [Pytorch Notebooks](https://github.com/mahendran-narayanan/Pytorch)
 This repository contains some of the code which i tried to implement in pytorch
 
