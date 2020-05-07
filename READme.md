@@ -4,7 +4,8 @@
 My Resume
 
 ### [Wear Mask](https://github.com/mahendran-narayanan/wear-mask)
-Developed a simple awareness site due to COVID-19. When a person views this page, the mask automatically covers the face. This site needs camera access. Developed using posenet model in tensorflow with help of ml5js (machine learning library) and p5js (JavaScript library)
+Developed a simple awareness site due to COVID-19. When a person views this page, the mask automatically covers the face. This site needs camera access. Developed using posenet model in tensorflow with help of ml5js (machine learning library) and p5js (JavaScript library).
+This project is accepted in huge collection of useful projects and resources for COVID-19 (2019 novel Coronavirus). Repo [link](https://github.com/soroushchehresa/awesome-coronavirus)
 
 ### [Simple Neural Networks](https://github.com/mahendran-narayanan/Daily-Nlog)
 This repository contains some of the segments of code implemented in neural networks
