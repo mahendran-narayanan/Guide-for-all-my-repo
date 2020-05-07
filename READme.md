@@ -43,20 +43,3 @@ To run this code download and save it in the folder where all RAW images are and
 
 ### [Intro to Data Science](https://github.com/mahendran-narayanan/Intro-to-Data-Science)
 This contains the answers for the course named Introduction to Data Science by Microsoft. Pretty tough to complete in initial phases of studying Data Science.
-
-
-### [Maze Game](https://github.com/mahendran-narayanan/MazeGame)
-A Virtual Reality workshop that I ever attended to know what Virtual Reality is. Nice experience to develop some basic level gaming and play the game that i created by myself.(Wow!)
-
-
-### [Book-Management](https://github.com/mahendran-narayanan/Book-Management)
-Started due to the fond of Django platform. And then i realized i need some more knowledge in creating something new.
-
-
-### [Raw File Converter](https://github.com/mahendran-narayanan/rawfileconverter)
-This is actually the continuation of [this](https://github.com/mahendran-narayanan/Canon-CR2-to-jpeg) project. I thought of implementing that as a python package so that it will be useful to the people. Yet to complete.
-
-### [ODI Cricket Stats](https://github.com/mahendran-narayanan/ODI-Cricket-Statistics-1971-2017)
-First proper implementation of Kaggle kernel. Yet to discover its full potential.
-
-
