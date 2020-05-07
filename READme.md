@@ -7,6 +7,8 @@ This contains the answers for the course named Introduction to Data Science by M
 This program idea started and completed in the same day. Me and my friend got the original photos shot using CANON DSLR. But we had a problem of having all the files in RAW format.So i used few python libraries to get all those pictures to Jpeg. This gives me a understanding of what python is . And how can i use it to the fullest.
 To run this code download and save it in the folder where all RAW images are and then run this program. 
 
+### [Web Scraper](https://github.com/mahendran-narayanan/Webscraper)
+Used this to scrap the images from the web. I stopped it because of one article which said Google doesnot allow us to scrap the sites. If they found my IP will be banned. (At that time i have no knowledge of using API's)
 
 ### [GDG Hackathon](https://github.com/mahendran-narayanan/gdgcbe_21_Spartans_KCT)
 Participated in Google Developers Hackathon in Coimbatore,Tamil Nadu. All persons going really fast like Bugatti Veyron for two full days. Lot of experience for me to be present at that moment.
@@ -18,8 +20,6 @@ A Virtual Reality workshop that I ever attended to know what Virtual Reality is.
 ### [Book-Management](https://github.com/mahendran-narayanan/Book-Management)
 Started due to the fond of Django platform. And then i realized i need some more knowledge in creating something new.
 
-### [Web Scraper](https://github.com/mahendran-narayanan/Webscraper)
-Used this to scrap the images from the web. I stopped it because of one article which said Google doesnot allow us to scrap the sites. If they found my IP will be banned. (At that time i have no knowledge of using API's)
 
 ### [Raw File Converter](https://github.com/mahendran-narayanan/rawfileconverter)
 This is actually the continuation of [this](https://github.com/mahendran-narayanan/Canon-CR2-to-jpeg) project. I thought of implementing that as a python package so that it will be useful to the people. Yet to complete.
