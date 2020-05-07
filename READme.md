@@ -1,5 +1,8 @@
 ## Guide to all my Repositories
 
+### [Resume](https://mahendran-narayanan.github.io/)
+My Resume
+
 ### [Wear Mask](https://github.com/mahendran-narayanan/wear-mask)
 Developed a simple awareness site due to COVID-19. When a person views this page, the mask automatically covers the face. This site needs camera access. Developed using posenet model in tensorflow with help of ml5js (machine learning library) and p5js (JavaScript library)
 
