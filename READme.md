@@ -3,6 +3,9 @@
 ### [Resume](https://mahendran-narayanan.github.io/)
 My Resume
 
+### [Django Calculator](https://github.com/mahendran-narayanan/Django-calculator)
+Calculator app combined with Django to create as a web application.
+
 ### [Wear Mask](https://github.com/mahendran-narayanan/wear-mask)
 Developed a simple awareness site due to COVID-19. When a person views this page, the mask automatically covers the face. This site needs camera access. Developed using posenet model in tensorflow with help of ml5js (machine learning library) and p5js (JavaScript library).
 This project is accepted in huge collection of useful projects and resources for COVID-19 (2019 novel Coronavirus). Repo [link](https://github.com/soroushchehresa/awesome-coronavirus)
