@@ -1,5 +1,8 @@
 ## Guide to all my Repositories
 
+### [GDG Hackathon](https://github.com/mahendran-narayanan/gdgcbe_21_Spartans_KCT)
+Participated in Google Developers Hackathon in Coimbatore,Tamil Nadu. All persons going really fast like Bugatti Veyron for two full days (Yes!. I love that car). Lot of experience for me to be present at that moment.
+
 ### [Web Scraper](https://github.com/mahendran-narayanan/Webscraper)
 Used this to scrap the images from the web. I stopped it because of one article which said Google doesnot allow us to scrap the sites. If they found my IP will be banned. (At that time i have no knowledge of using API's)
 
@@ -10,11 +13,6 @@ To run this code download and save it in the folder where all RAW images are and
 ### [Intro to Data Science](https://github.com/mahendran-narayanan/Intro-to-Data-Science)
 This contains the answers for the course named Introduction to Data Science by Microsoft. Pretty tough to complete in initial phases of studying Data Science.
 
-
-
-
-### [GDG Hackathon](https://github.com/mahendran-narayanan/gdgcbe_21_Spartans_KCT)
-Participated in Google Developers Hackathon in Coimbatore,Tamil Nadu. All persons going really fast like Bugatti Veyron for two full days. Lot of experience for me to be present at that moment.
 
 ### [Maze Game](https://github.com/mahendran-narayanan/MazeGame)
 A Virtual Reality workshop that I ever attended to know what Virtual Reality is. Nice experience to develop some basic level gaming and play the game that i created by myself.(Wow!)
