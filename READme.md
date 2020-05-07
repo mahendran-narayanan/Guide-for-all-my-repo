@@ -3,6 +3,9 @@
 ### [Resume](https://mahendran-narayanan.github.io/)
 My Resume
 
+### [Django ML](https://github.com/mahendran-narayanan/Django-ML)
+Under Development. Trying to develop a web application which uses Machine Learning posenet model and predicts the pose realtime. Inspired from [this](https://blog.tensorflow.org/2018/05/real-time-human-pose-estimation-in.html) blog post.
+
 ### [Django Forms](https://github.com/mahendran-narayanan/Django-forms)
 Developed a web application which uses form. Uses MySQL as backend.
 
