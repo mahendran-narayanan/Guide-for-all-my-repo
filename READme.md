@@ -1,7 +1,7 @@
 ## Guide to all my Repositories
 
 ### [Resume](https://mahendran-narayanan.github.io/)
-Site Under Development. This site should contain my resume.
+My Resume.
 
 ### [Types of Neural Networks](https://github.com/mahendran-narayanan/neural-network-types)
 This repository contains all types of neural networks that is implemented on well known datasets or some random generated dataset.
